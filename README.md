@@ -1,4 +1,4 @@
-##Oii, me chamo Douglas e seja bem-vindo ao meu perfil do GitHub!!
+## Oii, me chamo Douglas e seja bem-vindo ao meu perfil do GitHub!! Espero que goste ☺
 
 <div align="center">
   <a href="https://github.com/douglaszapelini">
