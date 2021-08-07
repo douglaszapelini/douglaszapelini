@@ -1,4 +1,7 @@
-# Hiii! My name is Douglas, welcome to my profile in Github!!
+<div align="center">
+  <img alt="welcome" src="https://im4.ezgif.com/tmp/ezgif-4-8476c0fb23b1.gif">
+</div>
+
 
 <div align="center">
   <a href="https://github.com/douglaszapelini">
