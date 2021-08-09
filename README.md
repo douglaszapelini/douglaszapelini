@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="welcome" src="https://im4.ezgif.com/tmp/ezgif-4-8476c0fb23b1.gif">
+  <img alt="welcome" src="https://media.discordapp.net/attachments/725114160018620458/874421376314925106/ezgif-3-0c08cc7327c4.gif">
 </div>
 
 
